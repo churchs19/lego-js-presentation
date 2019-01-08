@@ -27,11 +27,10 @@
 
 .lego-js {
   background-image: radial-gradient(
-      circle farthest-corner at center,
-      #222 0%,
-      #050505 100%
-    )
-    !important;
+    circle farthest-corner at center,
+    #222 0%,
+    #050505 100%
+  ) !important;
 }
 
 .reveal .slides h1,
@@ -64,8 +63,13 @@
   font-size: 2.5em;
 }
 .reveal .slides ul.link-list {
-    color: #706fda;
+  color: #706fda;
 }
 .reveal .slides .home-link a {
   color: #fff;
+}
+
+.reveal .slides .demo-text {
+  color: #fff;
+  font-family: "robotoregular";
 }
