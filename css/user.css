@@ -45,7 +45,7 @@
   text-transform: uppercase;
   color: #49488e;
   transform-origin: 0 0;
-  font-size: 1.8em;
+  font-size: 1.5em;
 }
 .reveal .slides {
   font-family: "robotoregular";
@@ -65,4 +65,7 @@
 }
 .reveal .slides ul.link-list {
     color: #706fda;
+}
+.reveal .slides .home-link a {
+  color: #fff;
 }
